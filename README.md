@@ -6,6 +6,9 @@ Download and get the Gemini API implementation code in flutter.
 
 Copy and paste your API Key to String inside gemini_api.dart file.
 
+To get your API Key visit Makersuite or Google AI Studio
+https://makersuite.google.com
+
 ## MIT License
 
 Copyright (c) 2023 Mukund S
