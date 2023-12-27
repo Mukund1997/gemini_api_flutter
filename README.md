@@ -1,10 +1,12 @@
-# gemini
+# Gemini API
 
 Download and get the Gemini API implementation code in flutter.
 
 ## Getting Started
 
-MIT License
+Copy and paste your API Key to String inside gemini_api.dart file.
+
+# MIT License
 
 Copyright (c) 2023 Mukund S
 
